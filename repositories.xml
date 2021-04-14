@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>Orangepi4-overlay</name>
+      <description lang="en">Orangepi4-overlay Custom Gentoo Overlay.</description>
+        <homepage>https://github.com/Shaggy013/Orangepi4-overlay</homepage>
+        <owner type="person">
+            <name>Shaggy013</name>
+            <email>my-name@my-email.com</email>
+        </owner>
+        <source type="git">git://github.com/Shaggy013/Orangepi4-overlay.git</source>
+        <feed>https://github.com/Shaggy013/Orangepi4-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
